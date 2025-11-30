@@ -19,6 +19,7 @@ Case Summaries → Embeddings → Clustering → Centroids → FAISS Index → R
 
 dataset/
     finekb_cases_train_clustered.parquet
+	finekb_cases_val.parquet
     finekb_cases_test.parquet
     finekb_kb.parquet
     finekb_train.part_aa
@@ -40,6 +41,7 @@ The dataset includes anonymized embeddings for both support cases and KB article
 ### Included Files
 
 - finekb_cases_train_clustered.parquet — clustered training cases  
+- finekb_cases_val.parquet — validation cases
 - finekb_cases_test.parquet — test cases  
 - finekb_kb.parquet — KB article embeddings  
 - finekb_train.part_* — split files for the full training set
