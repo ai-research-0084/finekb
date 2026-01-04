@@ -1,4 +1,4 @@
-# FineKB: Domain-Adaptive Issue Summarization and Cluster-Aware Retrieval for Support Knowledge Base
+# FineKB
 
 FineKB is a domain-adaptive retrieval framework for matching noisy enterprise support cases to relevant knowledge base (KB) articles.  
 This repository provides the public dataset, clustering workflow, retrieval baselines, and evaluation notebooks used to build and analyze the FineKB system.
